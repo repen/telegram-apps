@@ -1,0 +1,18 @@
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+__pycache__/
+.idea
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dist
+*.egg-info
+build
+application.ns
